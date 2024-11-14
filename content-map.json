@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "AquaVessel",
+        "HERO_HEADING_TEXT": "Quench Your Thirst, Sustain the Planet",
+        "HERO_SUBHEADING_TEXT": "Discover our eco-friendly water bottles designed for your active lifestyle and environmental consciousness",
+        "FOOTER_TEXT": "\u00a9 2023 AquaVessel. Stay hydrated, stay sustainable."
+    }
+}
