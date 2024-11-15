@@ -6,8 +6,8 @@ const Hero: React.FC = () => {
     <div className="bg-black py-16 text-white w-full h-full">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
         <div className="md:w-1/2 mb-8 md:mb-0">
-          <h1 className="text-4xl font-bold mb-4">Join the Hydration Hero Army!</h1>
-          <p className="text-xl mb-6">Discover our eco-friendly water bottles designed for your active lifestyle and environmental consciousness</p>
+          <h1 className="text-4xl font-bold mb-4">This is release 01</h1>
+          <p className="text-xl mb-6"></p>
         </div>
       </div>
     </div>
