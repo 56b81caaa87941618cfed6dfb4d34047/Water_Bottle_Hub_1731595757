@@ -22,5 +22,15 @@
         "source": "base_assistant",
         "content": "You currently do not have any component selected in your interface. You can select a component by clicking on it, or let me know if there's a specific component you'd like to edit.",
         "metadata": {}
+    },
+    {
+        "id": "acbc348e-b153-4f70-a9fa-d8625a77e624",
+        "timestamp": "2024-11-20T10:16:11.811210Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "How about now?",
+        "metadata": {
+            "component_id": "Header1731595760"
+        }
     }
 ]
