@@ -32,5 +32,13 @@
         "metadata": {
             "component_id": "Header1731595760"
         }
+    },
+    {
+        "id": "6e012070-ed71-4ac6-9827-a313343566e1",
+        "timestamp": "2024-11-20T10:16:14.203245Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "You currently have the `Header1731595760` component selected. How would you like to edit it?",
+        "metadata": {}
     }
 ]
