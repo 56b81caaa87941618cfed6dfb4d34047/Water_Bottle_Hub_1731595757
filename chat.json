@@ -14,5 +14,13 @@
         "source": "web_client",
         "content": "What component do I have selected?",
         "metadata": {}
+    },
+    {
+        "id": "6e6faf0e-3058-4680-ba2f-ff34177021fd",
+        "timestamp": "2024-11-20T10:15:16.582355Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "You currently do not have any component selected in your interface. You can select a component by clicking on it, or let me know if there's a specific component you'd like to edit.",
+        "metadata": {}
     }
 ]
