@@ -34,5 +34,20 @@
         "metadata": {
             "component_id": "Footer1731624218"
         }
+    },
+    {
+        "id": "fac2b802-ba95-4bba-a247-b14ad53e61a4",
+        "timestamp": "2024-11-21T10:08:23.136173Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_yVbLnONQL7jMIebBNH7y37wT",
+            "function": {
+                "arguments": "{\"component_id\":\"Header1731595760\",\"change_description\":\"Add a title saying 'WII'\",\"acknowledgement_message\":\"Adding the title 'WII' to the Header component...\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
