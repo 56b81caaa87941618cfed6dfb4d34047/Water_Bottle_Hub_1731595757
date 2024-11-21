@@ -40,5 +40,15 @@
         "source": "base_assistant",
         "content": "The current components in your project are:\n1. `Hero1731595760`\n2. `Header1731595760`\n3. `Footer1731624218`\n\nHow would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "08a6e7a1-369b-47fe-8492-797749c611da",
+        "timestamp": "2024-11-21T10:05:42.709505Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you to add a title to hero",
+        "metadata": {
+            "component_id": "Footer1731624218"
+        }
     }
 ]
