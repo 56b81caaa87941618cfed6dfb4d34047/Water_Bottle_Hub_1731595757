@@ -245,5 +245,13 @@
         "source": "web_client",
         "content": "you can get it from the IBI",
         "metadata": {}
+    },
+    {
+        "id": "89ac01a0-3145-491c-91ee-7be56d19933a",
+        "timestamp": "2024-11-21T09:52:29.315248Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "I don't have the capability to access information directly from the IBI. Please provide a brief description or the ABI (Application Binary Interface) of the smart contract so I can proceed with creating the frontend component for you.",
+        "metadata": {}
     }
 ]
