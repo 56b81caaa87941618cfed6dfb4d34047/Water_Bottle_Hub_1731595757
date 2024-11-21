@@ -162,5 +162,15 @@
         "source": "base_assistant",
         "content": "The copy \"you lose\" has been added to the Footer component. Let me know if you need any further assistance!",
         "metadata": {}
+    },
+    {
+        "id": "0a84c204-f647-4486-be33-4f9e42123ea8",
+        "timestamp": "2024-11-21T10:10:05.354075Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add a copy that says \"test\"",
+        "metadata": {
+            "component_id": "Hero1731595760"
+        }
     }
 ]
