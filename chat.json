@@ -76,5 +76,15 @@
         "source": "base_assistant",
         "content": "Okay, I'll add an image between the \"Quick links\" and \"connect with us\" sections of the footer component.\n\nCan you please describe the image you'd like to generate and add to the footer?",
         "metadata": {}
+    },
+    {
+        "id": "c0d75335-9c81-440a-a42d-0bdc7855d490",
+        "timestamp": "2024-11-21T09:36:16.880853Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "it is the image that is already there",
+        "metadata": {
+            "component_id": "Footer1731624218"
+        }
     }
 ]
