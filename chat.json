@@ -204,5 +204,20 @@
         "source": "web_client",
         "content": "create a frontend component for this sc 0x1F98431c8aD98523631AE4a59f267346ea31F984 on ethereum",
         "metadata": {}
+    },
+    {
+        "id": "2792cb35-ffc6-4715-8f24-3112559a8887",
+        "timestamp": "2024-11-21T09:46:18.741850Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_d6jCnXLzWBPPyzRets0xbMHM",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
