@@ -237,5 +237,13 @@
         "source": "smart_contract_assistant",
         "content": "To help you create a frontend component for the smart contract at address `0x1F98431c8aD98523631AE4a59f267346ea31F984` on Ethereum, I will proceed with the setup. But first, could you please provide a brief description of the smart contract's functionality so I can tailor the frontend component accordingly?",
         "metadata": {}
+    },
+    {
+        "id": "9bcee0a8-5114-4dee-8759-b35c4e9acd5c",
+        "timestamp": "2024-11-21T09:52:26.683672Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "you can get it from the IBI",
+        "metadata": {}
     }
 ]
