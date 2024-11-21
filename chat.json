@@ -180,5 +180,15 @@
         "source": "base_assistant",
         "content": "Please select the specific component where you want to add the copy that says \"test.\"",
         "metadata": {}
+    },
+    {
+        "id": "abfc61cf-56a0-4b20-832b-d2810736ad9c",
+        "timestamp": "2024-11-21T10:10:15.227258Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "to the current one",
+        "metadata": {
+            "component_id": "Hero1731595760"
+        }
     }
 ]
