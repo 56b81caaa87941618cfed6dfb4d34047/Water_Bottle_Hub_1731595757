@@ -85,5 +85,13 @@
         "metadata": {
             "component_id": "Footer1731624218"
         }
+    },
+    {
+        "id": "b9c62692-00a4-4301-a9b6-355c242bee65",
+        "timestamp": "2024-11-21T10:08:56.552611Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Please specify which component you want to add the \"you lose\" copy to.",
+        "metadata": {}
     }
 ]
