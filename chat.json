@@ -16,5 +16,13 @@
         "metadata": {
             "component_id": "Hero1731595760"
         }
+    },
+    {
+        "id": "70b8478f-1071-4354-9daf-e8f130b5cd55",
+        "timestamp": "2024-11-21T10:05:21.103884Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Please unselect the current component first to view the list of components in the project.",
+        "metadata": {}
     }
 ]
