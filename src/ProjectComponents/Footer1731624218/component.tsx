@@ -24,7 +24,8 @@ const Footer: React.FC = () => {
           </div>
 
           {/* IMAGE */}
-          <div className="w-full md:w-1/3 mb-6 md:mb-0 flex justify-center items-center">
+          <div className="w-full md:w-1/3 mb-6 md:mb-0 flex flex-col justify-center items-center">
+            <h4 className="text-lg font-semibold mb-2">QQQ</h4>
             <img src="/path-to-your-image.jpg" alt="AquaVessel" className="max-w-full h-auto rounded-lg shadow-md" />
           </div>
 
