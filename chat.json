@@ -24,5 +24,13 @@
         "source": "base_assistant",
         "content": "Please unselect the current component first to view the list of components in the project.",
         "metadata": {}
+    },
+    {
+        "id": "dba22258-61f9-44a6-bfda-71a61dea6707",
+        "timestamp": "2024-11-21T10:05:26.529850Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what are the components of this project=",
+        "metadata": {}
     }
 ]
