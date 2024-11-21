@@ -367,5 +367,13 @@
         "source": "smart_contract_assistant",
         "content": "The frontend component for the swap smart contract has been successfully deployed. Is there anything else you would like to do?",
         "metadata": {}
+    },
+    {
+        "id": "6c758a29-455a-47f8-abd3-0ac26f7c7f8f",
+        "timestamp": "2024-11-21T09:58:53.021903Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what are the components of this project=",
+        "metadata": {}
     }
 ]
