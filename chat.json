@@ -231,5 +231,15 @@
         "source": "base_assistant",
         "content": "The copy \"test\" has been added to the Footer component. Let me know if you need further assistance!",
         "metadata": {}
+    },
+    {
+        "id": "1543216f-f61d-4bf7-800d-9f1084e43117",
+        "timestamp": "2024-11-21T10:11:04.164058Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "now, generate a forntend for the sc address 0x1F98431c8aD98523631AE4a59f267346ea31F984\ton ETH",
+        "metadata": {
+            "component_id": "Hero1731595760"
+        }
     }
 ]
