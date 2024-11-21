@@ -253,5 +253,13 @@
         "source": "smart_contract_assistant",
         "content": "I don't have the capability to access information directly from the IBI. Please provide a brief description or the ABI (Application Binary Interface) of the smart contract so I can proceed with creating the frontend component for you.",
         "metadata": {}
+    },
+    {
+        "id": "59b77c2a-356a-49f7-8c28-4647f14da105",
+        "timestamp": "2024-11-21T09:53:04.218343Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "the abi, you will access to that",
+        "metadata": {}
     }
 ]
