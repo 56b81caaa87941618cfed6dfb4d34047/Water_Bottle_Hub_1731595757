@@ -172,5 +172,13 @@
         "metadata": {
             "component_id": "Hero1731595760"
         }
+    },
+    {
+        "id": "ef1bbddc-882d-4f50-ab7f-cb849f444f7f",
+        "timestamp": "2024-11-21T10:10:08.500236Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Please select the specific component where you want to add the copy that says \"test.\"",
+        "metadata": {}
     }
 ]
