@@ -190,5 +190,20 @@
         "metadata": {
             "component_id": "Hero1731595760"
         }
+    },
+    {
+        "id": "77937eb0-d6db-4d16-8c7d-5b10d6aec34f",
+        "timestamp": "2024-11-21T10:10:19.369265Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_tsR0CsNZlX7JAuUUoJyolpTn",
+            "function": {
+                "arguments": "{\"component_id\":\"Footer1731624218\",\"change_description\":\"Add a copy that says 'test'\",\"acknowledgement_message\":\"Adding the copy 'test' to the Footer component...\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
