@@ -24,5 +24,15 @@
         "source": "base_assistant",
         "content": "Please go to the \"Components\" tab on the MakeInfinite studio and select the 'Header' component. Once you've selected it, let me know so I can proceed with the changes.",
         "metadata": {}
+    },
+    {
+        "id": "90ddcc39-4ebf-49e4-9cb7-fc67f34cf027",
+        "timestamp": "2024-11-21T10:08:17.145120Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add a title to say \"WII\"",
+        "metadata": {
+            "component_id": "Footer1731624218"
+        }
     }
 ]
