@@ -375,5 +375,20 @@
         "source": "web_client",
         "content": "what are the components of this project=",
         "metadata": {}
+    },
+    {
+        "id": "85b3a100-b60b-42aa-8952-09519ffa1a16",
+        "timestamp": "2024-11-21T09:58:55.709353Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_8u9GGuXOWFEeXu6p4BAWsAvz",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToBaseAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
