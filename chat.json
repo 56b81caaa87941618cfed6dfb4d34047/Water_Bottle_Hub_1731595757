@@ -269,5 +269,13 @@
         "source": "smart_contract_assistant",
         "content": "I'm currently unable to directly access the ABI of the provided smart contract address. Could you please provide the ABI so I can assist you further in creating the frontend component?",
         "metadata": {}
+    },
+    {
+        "id": "e05e550e-f060-43cd-921e-9feef51a5dfb",
+        "timestamp": "2024-11-21T09:53:23.104838Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "dude, just make the frontenf for a swaping sc",
+        "metadata": {}
     }
 ]
