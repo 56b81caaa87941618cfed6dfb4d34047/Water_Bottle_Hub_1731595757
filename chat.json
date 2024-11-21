@@ -261,5 +261,13 @@
         "source": "web_client",
         "content": "the abi, you will access to that",
         "metadata": {}
+    },
+    {
+        "id": "324d912f-e739-46b4-9da2-045bf56b5de2",
+        "timestamp": "2024-11-21T09:53:07.143526Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "I'm currently unable to directly access the ABI of the provided smart contract address. Could you please provide the ABI so I can assist you further in creating the frontend component?",
+        "metadata": {}
     }
 ]
