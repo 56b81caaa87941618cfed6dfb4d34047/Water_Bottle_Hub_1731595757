@@ -196,5 +196,13 @@
         "source": "base_assistant",
         "content": "I have added the title \"QQQ\" above the image section in the footer. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "2334097c-2b10-4ee6-89a3-6d46822b0ff5",
+        "timestamp": "2024-11-21T09:46:14.014613Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "create a frontend component for this sc 0x1F98431c8aD98523631AE4a59f267346ea31F984 on ethereum",
+        "metadata": {}
     }
 ]
