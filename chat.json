@@ -318,5 +318,13 @@
         "source": "smart_contract_assistant",
         "content": "Would you like me to deploy this generated frontend component for the swap smart contract now?",
         "metadata": {}
+    },
+    {
+        "id": "a5cf4023-3ea8-4534-80c2-5a3454a4c0b5",
+        "timestamp": "2024-11-21T09:56:45.589737Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "yes",
+        "metadata": {}
     }
 ]
