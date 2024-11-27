@@ -14,5 +14,13 @@
         "source": "web_client",
         "content": "Can you please remove the 'WII' text from the right side of the Header?",
         "metadata": {}
+    },
+    {
+        "id": "104f832e-196d-4c48-bbe8-40291ddedd9e",
+        "timestamp": "2024-11-27T21:41:16.312701Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "ss",
+        "metadata": {}
     }
 ]
