@@ -113,5 +113,15 @@
         "source": "base_assistant",
         "content": "The \"WII\" text has been removed from the right side of the header. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "d0797999-bddf-45db-acfd-a25789a3263d",
+        "timestamp": "2024-11-27T23:35:39.081902Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please add the WII back!",
+        "metadata": {
+            "component_id": "Header1731595760"
+        }
     }
 ]
