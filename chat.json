@@ -6,46 +6,5 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
-    },
-    {
-        "id": "7bcd2bcd-ad24-482a-a7a2-862ec8c3c9bc",
-        "timestamp": "2024-11-21T11:31:23.745484Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "generate a forntend to interact with the sc 0x1F98431c8aD98523631AE4a59f267346ea31F984\t in ETH",
-        "metadata": {}
-    },
-    {
-        "id": "65f374fe-c5f8-4878-833f-6bb639d6aad9",
-        "timestamp": "2024-11-21T11:31:27.324637Z",
-        "role": "tool_call",
-        "source": "base_assistant",
-        "content": null,
-        "metadata": {
-            "id": "call_5FFsER9sZkbNV81KodmTZBXt",
-            "function": {
-                "arguments": "{\"component_id\":\"Hero1731595760\",\"sc_address\":\"0x1F98431c8aD98523631AE4a59f267346ea31F984\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"Integrate smart contract interaction for the specified address and chain.\",\"acknowledgement_message\":\"Okay, I'm editing the component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984 on Ethereum.\"}",
-                "name": "EditSmartContractFrontendComponent"
-            },
-            "type": "function"
-        }
-    },
-    {
-        "id": "946a915a-e821-429a-9d1e-d667c35b8eaa",
-        "timestamp": "2024-11-21T11:31:28.554222Z",
-        "role": "assistant",
-        "source": "tool:edit_smart_contract_frontend_component",
-        "content": "Okay, I'm editing the component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984 on Ethereum.",
-        "metadata": {}
-    },
-    {
-        "id": "600f3be7-3070-4517-a686-69b0362946a4",
-        "timestamp": "2024-11-27T21:36:42.542661Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "Can you remove the",
-        "metadata": {
-            "component_id": "Header1731595760"
-        }
     }
 ]
