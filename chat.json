@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "627c729d-0d15-419c-a744-fe746c262d25",
+        "timestamp": "2024-11-27T21:38:27.380745Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you please remove the 'WII' text from the right side of the Header?",
+        "metadata": {}
     }
 ]
