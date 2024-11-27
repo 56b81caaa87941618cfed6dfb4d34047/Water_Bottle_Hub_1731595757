@@ -22,5 +22,15 @@
         "source": "web_client",
         "content": "ss",
         "metadata": {}
+    },
+    {
+        "id": "be17ddb1-a864-4cf8-a7f1-f316a9c7b744",
+        "timestamp": "2024-11-27T23:20:17.846247Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you please remove the 'WII' text from the right side of the Header?",
+        "metadata": {
+            "component_id": "Header1731595760"
+        }
     }
 ]
