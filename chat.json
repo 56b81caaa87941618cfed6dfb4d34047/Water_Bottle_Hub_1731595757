@@ -42,5 +42,15 @@
         "metadata": {
             "component_id": "Header1731595760"
         }
+    },
+    {
+        "id": "eaa2e0b5-80ee-4646-a95d-cab61c1fa75d",
+        "timestamp": "2024-11-27T23:24:47.474859Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you please remove the 'WII' text from the right side of the Header?",
+        "metadata": {
+            "component_id": "Header1731595760"
+        }
     }
 ]
