@@ -358,5 +358,15 @@
         "metadata": {
             "component_id": "Header1731595760"
         }
+    },
+    {
+        "id": "332e56d8-cf0c-4d8d-a90e-ee03e4614660",
+        "timestamp": "2024-12-02T16:46:26.253597Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please add some text to the right side of the header that says 'hehe'",
+        "metadata": {
+            "component_id": "Header1731595760"
+        }
     }
 ]
